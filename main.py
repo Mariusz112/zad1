@@ -98,9 +98,9 @@ print(zad8.split(","))
 
 #zad9
 napis="to jest napis"
-print(napis)
-
-zmienno = float(3)
+print(napis.capitalize())
+k=4
+zmienno = float(k)
 print(zmienno)
 
 hexa = hex(255)
