@@ -103,5 +103,5 @@ k=4
 zmienno = float(k)
 print(zmienno)
 
-hexa = hex(255)
+hexa = hex(k)
 print(hexa)
